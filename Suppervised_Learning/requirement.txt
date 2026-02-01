@@ -1,0 +1,6 @@
+Flask 
+pand
+ numpy 
+ matplotlib
+ seaborn 
+ 
